@@ -11,7 +11,7 @@
 <sup><kbd>***[Click here](https://github.com/Draed/jobtweets/blob/master/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
 
 <sup><kbd>***[Click here](https://github.com/Draed/jobtweets/blob/master/PROJECTS.md)***</kbd> *to view my rush.</sup>* <br>
-**Check out links below** to know **[more](https://draed.github.io/projects/rush.md)** about me:
+**Check out links below** to know **[more](https://github.com/Draed/Draed.github.io)** about me:
 
 
 <!--
