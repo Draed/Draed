@@ -9,7 +9,9 @@
 | [**My Project**](https://url)   |
 
 <sup><kbd>***[Click here](https://github.com/Draed/jobtweets/blob/master/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
-**Check out links below** to know **[more](https://draed.github.io/)** about me:
+
+<sup><kbd>***[Click here](https://github.com/Draed/jobtweets/blob/master/PROJECTS.md)***</kbd> *to view my rush.</sup>* <br>
+**Check out links below** to know **[more](https://draed.github.io/projects/rush.md)** about me:
 
 
 <!--
