@@ -4,4 +4,4 @@
 
 | :hash: | Rush Name | Description | Start Time | End Time | Duration |
 |:--------:|---------|-------------|-----------|-----------|-----------|
-| :one: | [Project Name](https://Draed.github.io)| <br> Project Description <br><br> | [@Draed/repo](https://github.com/Draed) | Start Time | End Time | Duration |
+| :one: | [Project Name](https://Draed.github.io)| <br> Project Description <br><br> | Start Time | End Time | Duration |
