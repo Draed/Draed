@@ -1,21 +1,28 @@
 ![hi there](images/readme-typing-svg.svg)
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+### Welcome to my git homepage
+
+I'm a system admin oriented to devops method, you can find here some of my projects, tools and challenges.
 
 - 🔭 I’m currently working on Ansible, Terraform, Packer, ELK, Rsyslog.
 - 🌱 I’m currently learning iptables in deep, podman.
 
+<sup><kbd>***[Rush](https://github.com/Draed/Draed/blob/master/rush.md)***</kbd></sup> ⇦ Home ⇨ <sup><kbd>***[Project](https://github.com/Draed/Draed/blob/master/projects.md)***</kbd></sup>
+   ⇩
+
+    
 
 
-|      Project :octocat:                  |
-|-----------------------------------------|
-| [**My Project**](https://url)   |
 
-<sup><kbd>***[Click here](https://github.com/Draed/Draed/blob/master/projects.md)***</kbd> *to view my other projects.</sup>* <br>
 
-<sup><kbd>***[Click here](https://github.com/Draed/Draed/blob/master/projects.md)***</kbd> *to view my rush.</sup>* <br>
 **Check out links below** to know **[more](https://draed.github.io/)** about me:
 
+
+<!-- |      Project :octocat:                  |
+|-----------------------------------------|
+| [**My Project**](https://url)   | -->
 
 <!--
 **Draed/Draed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
