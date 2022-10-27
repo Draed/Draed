@@ -1,4 +1,4 @@
-[hi there](images/readme-typing-svg.svg)
+![hi there](images/readme-typing-svg.svg)
 
 ### Hi there 👋
 
