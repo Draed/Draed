@@ -13,9 +13,9 @@ I'm a system admin oriented to devops methods, you can find here some of my proj
 
 ▶ If you are interested about my skills, go check my resume : <sup><kbd>***[Resume](https://draed.github.io/)***</kbd></sup> 
 
-▶ If you are interested about my work, go check my rush : <sup><kbd>***[Rush](https://github.com/Draed/rush/readme.md)***</kbd></sup> 
+▶ If you are interested about my work, go check my rush : <sup><kbd>***[Rush](https://github.com/Draed/rush/)***</kbd></sup> 
 
-▶ If you want to discovers my infra and my tools, go check my projects : <sup><kbd>***[Project](https://github.com/Draed/Draed/blob/master/projects.md)***</kbd></sup>
+▶ If you want to discovers my infra and my tools, go check my projects : <sup><kbd>***[Project](https://github.com/Draed/myinfra)***</kbd></sup>
 
 <!-- ### Learn more about how I work :
 
