@@ -9,7 +9,7 @@ I'm a system admin oriented to devops methods, you can find here some of my proj
 - 🔭 I’m currently working on : Terraform, Packer, testinfra.
 - 🌱 I’m currently learning : Kubernetes, freeradius.
 - :pencil2: I'm developping : an app with flask and React.
-- :fire: I'm getting better on : docker, podman and vulnerability scanning
+- :fire: I'm getting better on : docker, podman and vulnerability scanning.
 
  
 ### Where to go ?
