@@ -19,7 +19,7 @@ I'm a system admin oriented to devops methods, you can find here some of my proj
 
 ▶ If you want to discovers my lab test infrastructure, go check my infra : <sup><kbd>***[myinfra](https://github.com/Draed/myinfra)***</kbd></sup>
 
-▶ If you want to discovers my personal tools, go check my tools : <sup><kbd>***[tools](https://github.com/Draed/myinfra)***</kbd></sup>
+▶ If you want to discovers my personal tools, go check my tools : <sup><kbd>***[tools](my_tools.md)***</kbd></sup>
 
 ▶ If you want to know more about my goals and objectives, go check my roadmap : <sup><kbd>***[roadmap](https://github.com/Draed/roadmap/)***</kbd></sup> 
 
